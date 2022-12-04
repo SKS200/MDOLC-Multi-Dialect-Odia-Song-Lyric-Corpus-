@@ -38,12 +38,10 @@ python lang_detect_odia_samabalpuri.py
 
 Contributor
 ------------
--
-- Shashikanta Sahoo
+- Shashikanta Sahoo (https://github.com/SKS200) 
 - [Shantipriya Parida](https://www.shantipriya.me/)
 - Alakananda Tripathy
 - [Satya Ranjan Dash](https://ksca.kiit.ac.in/profiles/satya-ranjan-dash/)
-- 
 
 Support/Contact
 ---------------
